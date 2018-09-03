@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day7.domain.MyDate;
+import com.capgemini.day7.MyDate;
 
 class MyDateTest {
 	

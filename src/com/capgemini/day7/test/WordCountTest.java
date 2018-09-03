@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day7.domain.WordCount;
+import com.capgemini.day7.WordCount;
 
 class WordCountTest {
 int count=0;

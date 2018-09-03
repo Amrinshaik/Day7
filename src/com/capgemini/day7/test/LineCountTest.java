@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day7.domain.LineCount;
+import com.capgemini.day7.LineCount;
 
 class LineCountTest {
 	

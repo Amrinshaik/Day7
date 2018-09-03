@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day7.domain.VowelCount;
+import com.capgemini.day7.VowelCount;
 class VowelCountTest {
 
 	@Test

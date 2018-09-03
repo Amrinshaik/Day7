@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day7.domain.DateMagic;
+import com.capgemini.day7.DateMagic;
 
 class DateMagicTest {
 

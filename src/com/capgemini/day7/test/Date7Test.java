@@ -6,7 +6,7 @@ import java.text.ParseException;
 
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day7.domain.Date7;
+import com.capgemini.day7.Date7;
 
 class Date7Test {
 
